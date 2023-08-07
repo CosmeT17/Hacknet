@@ -1,0 +1,140 @@
+Hacknet vv5.069 Runtime ErrorLog
+
+-----
+v5.069 : 8/1/2023 6:39:45 AM
+Error writing save data for user : 
+System.NullReferenceException 
+ 
+Object reference not set to an instance of an object. 
+ 
+Source : Hacknet 
+ 
+System.NullReferenceException: Object reference not set to an instance of an object. 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+ 
+ 
+ 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+-----
+v5.069 : 8/1/2023 6:39:45 AM
+Error writing save data for user : 
+System.NullReferenceException 
+ 
+Object reference not set to an instance of an object. 
+ 
+Source : Hacknet 
+ 
+System.NullReferenceException: Object reference not set to an instance of an object. 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+ 
+ 
+ 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+-----
+v5.069 : 8/1/2023 6:39:59 AM
+Error writing save data for user : 
+System.NullReferenceException 
+ 
+Object reference not set to an instance of an object. 
+ 
+Source : Hacknet 
+ 
+System.NullReferenceException: Object reference not set to an instance of an object. 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+ 
+ 
+ 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+-----
+v5.069 : 8/1/2023 6:39:59 AM
+Error writing save data for user : 
+System.NullReferenceException 
+ 
+Object reference not set to an instance of an object. 
+ 
+Source : Hacknet 
+ 
+System.NullReferenceException: Object reference not set to an instance of an object. 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+ 
+ 
+ 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+-----
+v5.069 : 8/1/2023 6:40:26 AM
+Error writing save data for user : 
+System.NullReferenceException 
+ 
+Object reference not set to an instance of an object. 
+ 
+Source : Hacknet 
+ 
+System.NullReferenceException: Object reference not set to an instance of an object. 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+ 
+ 
+ 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+-----
+v5.069 : 8/1/2023 6:40:26 AM
+Error writing save data for user : 
+System.NullReferenceException 
+ 
+Object reference not set to an instance of an object. 
+ 
+Source : Hacknet 
+ 
+System.NullReferenceException: Object reference not set to an instance of an object. 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
+ 
+ 
+ 
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.GetSaveFileNameForUsername(String
+   username)
+
+   at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
+   playerID)
