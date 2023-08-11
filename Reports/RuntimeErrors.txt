@@ -138,3 +138,139 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 
    at Hacknet.PlatformAPI.Storage.SaveFileManager.WriteSaveData(String saveData, String
    playerID)
+-----
+v5.069 : 8/11/2023 3:43:31 PM
+System.ArgumentOutOfRangeException 
+ 
+Index was out of range. Must be non-negative and less than the size of the collection. 
+Parameter name: index 
+ 
+Source : mscorlib 
+ 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less
+than the size of the collection.
+
+Parameter name: index 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime) 
+ 
+ 
+ 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime)
+
+
+-----
+v5.069 : 8/11/2023 3:43:31 PM
+System.ArgumentOutOfRangeException 
+ 
+Index was out of range. Must be non-negative and less than the size of the collection. 
+Parameter name: index 
+ 
+Source : mscorlib 
+ 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less
+than the size of the collection.
+
+Parameter name: index 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime) 
+ 
+ 
+ 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime)
+
+
+-----
+v5.069 : 8/11/2023 3:43:31 PM
+System.ArgumentOutOfRangeException 
+ 
+Index was out of range. Must be non-negative and less than the size of the collection. 
+Parameter name: index 
+ 
+Source : mscorlib 
+ 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less
+than the size of the collection.
+
+Parameter name: index 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime) 
+ 
+ 
+ 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime)
+
+
+-----
+v5.069 : 8/11/2023 3:43:31 PM
+System.ArgumentOutOfRangeException 
+ 
+Index was out of range. Must be non-negative and less than the size of the collection. 
+Parameter name: index 
+ 
+Source : mscorlib 
+ 
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less
+than the size of the collection.
+
+Parameter name: index 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime) 
+ 
+ 
+ 
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument,
+   ExceptionResource resource)
+
+   at System.Collections.Generic.List`1.get_Item(Int32 index) 
+   at Hacknet.ThemeChangerExe.DrawListing(Rectangle dest, SpriteBatch sb) 
+   at Hacknet.ThemeChangerExe.Draw(Single t) 
+   at Hacknet.OS.drawModules(GameTime gameTime) 
+   at Hacknet.OS.Draw(GameTime gameTime)
+
+
